@@ -1,3 +1,5 @@
+/*Automorphic : ex: 5 --> 5^2= 25 which include number 5 itself in the last. Ex- 25*/
+
 %{
 #include<stdio.h>
 int a=0,b=0;

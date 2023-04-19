@@ -1,3 +1,5 @@
+/* even 0 and even 1 */
+
 %{
 #include<stdio.h>
 %}
